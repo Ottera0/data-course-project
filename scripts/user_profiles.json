@@ -1,0 +1,205 @@
+[
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 5
+        },
+        "favorite_sizes": {
+            "Large": 2,
+            "Medium": 2,
+            "Small": 1
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 2,
+            "Landscape": 3
+        },
+        "favorite_sizes": {
+            "Small": 2,
+            "Large": 1,
+            "Thumbnail": 2
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 2,
+            "Portrait": 2,
+            "Landscape": 1
+        },
+        "favorite_sizes": {
+            "Small": 2,
+            "Large": 3
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 2,
+            "Landscape": 3
+        },
+        "favorite_sizes": {
+            "Thumbnail": 2,
+            "Large": 1,
+            "Small": 2
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 4,
+            "Landscape": 1
+        },
+        "favorite_sizes": {
+            "Large": 3,
+            "Small": 1,
+            "Thumbnail": 1
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 3,
+            "Portrait": 2
+        },
+        "favorite_sizes": {
+            "Medium": 3,
+            "Thumbnail": 2
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Landscape": 2,
+            "Square": 1,
+            "Portrait": 2
+        },
+        "favorite_sizes": {
+            "Thumbnail": 2,
+            "Medium": 3
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Square": 2,
+            "Portrait": 2,
+            "Landscape": 1
+        },
+        "favorite_sizes": {
+            "Small": 1,
+            "Thumbnail": 2,
+            "Medium": 1,
+            "Large": 1
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Portrait": 2,
+            "Landscape": 3
+        },
+        "favorite_sizes": {
+            "Thumbnail": 2,
+            "Medium": 1,
+            "Small": 1,
+            "Large": 1
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    },
+    {
+        "favorite_colors": {
+            "#a59d8f": 5,
+            "#695f53": 5,
+            "#e0dfda": 5,
+            "#28241f": 5
+        },
+        "favorite_orientations": {
+            "Landscape": 2,
+            "Portrait": 1,
+            "Square": 2
+        },
+        "favorite_sizes": {
+            "Thumbnail": 1,
+            "Large": 1,
+            "Small": 1,
+            "Medium": 2
+        },
+        "favorite_tags": {
+            "dog": 5
+        }
+    }
+]
